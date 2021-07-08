@@ -1,9 +1,9 @@
 help
 ====
 
-If you have any questions just as David
+Here will be helpful information
 
 further help
 ^^^^^^^^^^^^
 
-If he can't help you ask Joe or Sebastian
+Additional inforamtion

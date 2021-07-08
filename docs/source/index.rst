@@ -1,10 +1,10 @@
-QBlade Documentation - 1st Try
+This is a Placholder-Title
 ===============================
 
 Another Header Test
 ===================
 
-Text explaining anything in QBlade. Plus a code section test::
+Text below the header. Plus a code section test::
 
     print 'hello'
     >> hello
